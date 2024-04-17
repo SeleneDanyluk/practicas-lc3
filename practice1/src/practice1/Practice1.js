@@ -150,8 +150,3 @@ const showMovies = (titlesArray) => {
 
 console.log(titlesArray);
 showMovies(titlesArray);
-
-
-
-
-
