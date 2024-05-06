@@ -1,0 +1,9 @@
+.form-container{
+    padding: 20px;
+    background-color: rgba(137, 43, 226, 0.601);
+    border-radius: 15px;
+}
+
+.form-container p{
+    margin-top: 10px;
+}
