@@ -1,0 +1,12 @@
+.tasks-item{
+    display: flex;
+}
+
+.container{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container button{
+    margin-right: 5px;
+}
