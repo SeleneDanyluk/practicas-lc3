@@ -10,3 +10,7 @@
 .container button{
     margin-right: 5px;
 }
+
+.container-pendient {
+    text-decoration: line-through;
+}

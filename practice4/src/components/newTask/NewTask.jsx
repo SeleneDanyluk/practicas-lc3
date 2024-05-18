@@ -25,8 +25,8 @@ const NewTask = ({ onHandleAddNewTask }) => {
                     placeholder="Ingresar tarea"
                     aria-label="Ingresar tarea"
                     aria-describedby="basic-addon2"
-                    onChange={handleNewTask}
                     value={enteredTask}
+                    onChange={handleNewTask}
                 />
                 <Button variant="dark" id="button-addon2" onClick={handleAddNewTaskSubmit}>
                     Agregar
